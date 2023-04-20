@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on NLP and sport analysis.
+- 🔭 I’m currently working on NLP and anomaly detection.
 - 🌱 I’m currently learning Python, R and C++. 
 - 👯 I’m looking to collaborate on Python projects.
 - 🤔 I’m looking for help with pretty much anything you can help with.
