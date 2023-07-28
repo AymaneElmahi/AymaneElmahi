@@ -10,5 +10,5 @@
 - ⚡ Fun fact: A man created a non-existent restaurant and managed to get it to #1 in <br /> 
  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;London by writing fake reviews about it on TripAdvisor.
 
-> **NB:** All the forked projects are projects I worked on that are posted on my colleagues github 😁
+> **NB:** `All the forked projects are projects I worked on that are posted on my colleagues github 😁`
 
