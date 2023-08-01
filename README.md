@@ -2,7 +2,7 @@
 
 ### 💡 Who am I ? 💡
 
-Hey there! Welcome to my GitHub repository, where I document my coding journey from dreaming of being the next Zuckerberg to embracing a diverse range of technologies 💻.
+Hey there! Welcome to my GitHub repository, where I document my coding journey from dreaming of being the next Zuckerberg to embracing a diverse range of technologies 💻.  
 As a young enthusiast, I dreamed of becoming the next tech icon like Zuckerberg. But with time, reality hit me 🥊, and I realized that coding is not only making the next Facebook, and that I could enjoy it in a lot of other ways.  
 During my preparatory classes, I took my first coding steps with Python 🐍, and to be honest that's where I felt like I could enjoy coding and I could even be really good at it.
 I pursued a data science and AI engineering degree, learning C/C++, ML, Tensorflow, Pandas ... 📊📈
