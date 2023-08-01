@@ -42,5 +42,6 @@ Happy Coding! 🚀
 
 ---
 
-![Aymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymaneElmahi&show_icons=true&theme=gruvbox)
+![Aymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymaneElmahi\&rank_icon=github\&theme=radical)
+
 
