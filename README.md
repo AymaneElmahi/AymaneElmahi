@@ -23,6 +23,8 @@ But also, data visualization captivated me 💓. The creativity and the secrets 
 Welcome aboard! Let's explore new technologies, build projects, and make coding a force for change! [Connect](mailto:elmahi.aymane@gmail.com) and contribute! 😊🙏
 
 Happy Coding! 🚀
+
+> **NB:** All the forked repositories on my page are repositores I made with my colleagues 😁 !
 <br />
 
 ---
