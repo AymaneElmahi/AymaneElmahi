@@ -15,7 +15,7 @@ Having a lot of fascination towards NLP 📖 and Image Processing 🖼️, I wou
 
 #### 🌐 Web Development and Data Visualization 📈📉
 
-Recently, I ventured into web development, learning HTML, CSS, and JavaScript, and planning to head towards frameworks such as NodeJS.
+Recently, I ventured into web development, learning HTML, CSS, and JavaScript, and planning to head towards frameworks such as Next.js.
 But also, data visualization captivated me 💓. The creativity and the secrets that data can hide are really fascinating ✨.
 
 ### 🚀 Join Me on This Exciting Journey 🌟
