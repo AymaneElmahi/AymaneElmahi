@@ -50,7 +50,5 @@ Happy Coding! 🚀
 
 ---
   
-![Aymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymaneElmahi\&rank_icon=github\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymaneElmahi&layout=donut\&theme=radical)
 
 
