@@ -52,7 +52,7 @@ Happy Coding! 🚀
   
  <div>
   <a href="https://github.com/AymaneElmahi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AymaneElmahi&show_icons=true&theme=github_dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymaneElmahi&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AymaneElmahi&rank_icon=github&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymaneElmahi&layout=compact&theme=radical"/>
 </div>
 
