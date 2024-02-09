@@ -13,10 +13,11 @@ Having a lot of fascination towards NLP 📖 and Image Processing 🖼️, I wou
 
 ### 🤔 Recent Interests 🤔
 
-#### 🌐 Web Development and Data Visualization 📈📉
+#### 📊 Data Engineering 📊
 
-Recently, I ventured into web development, learning HTML, CSS, and JavaScript, and planning to head towards frameworks such as Next.js.
-But also, data visualization captivated me 💓. The creativity and the secrets that data can hide are really fascinating ✨.
+Lately, I've delved into the realm of data engineering, mastering techniques in data ingestion, transformation, and storage, while also exploring tools like Apache Spark and Apache Kafka.  
+
+Moreover, I've found myself captivated by software development 💓, drawn to the power of crafting elegant solutions to complex problems and transforming abstract concepts into tangible applications ✨.
 
 ### 🚀 Join Me on This Exciting Journey 🌟
 
