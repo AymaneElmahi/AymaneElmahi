@@ -25,7 +25,7 @@ Welcome aboard! Let's explore new technologies, build projects, and make coding 
 
 Happy Coding! 🚀
 
-> **NB:** All the forked repositories on my page are repositores I made with my colleagues 😁 !
+> **NB:** All the forked repositories on my page are repositories I made with my colleagues 😁 !
 <br />
 
 ---
